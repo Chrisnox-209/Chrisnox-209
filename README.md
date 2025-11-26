@@ -1,14 +1,8 @@
-# 🔥 [Votre Nom ou Pseudo] : Architecte Numérique
+# 🔥 Chrisnox
 
 <p align="center">
   <img src="https://fr.pinterest.com/lowrie_/image-anime/" alt="Vibe Anime" width="350"/>
 </p>
-
----
-
-### 🚀 Mon Manifeste
-
-Bienvenue dans mon laboratoire numérique. Je suis un **architecte passionné** par la création de solutions robustes et élégantes. J'excelle à la jonction de la logique backend, du design frontend, et de la structure système. Je cherche constamment à transformer des idées complexes en expériences utilisateur impeccables.
 
 ---
 
@@ -41,14 +35,5 @@ Voici les technologies qui composent mon arsenal. Un clic sur les badges vous m�
 
 ---
 
-### 🌐 Connectons-nous
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=[VOTRE_NOM_UTILISATEUR]&show_icons=true&theme=vue" alt="GitHub Stats">
-</p>
-
-* **Portfolio/Site Web :** [Lien vers votre portfolio]
-* **LinkedIn :** [Lien vers votre LinkedIn]
-* **Contact :** [Votre adresse e-mail]
 
 > *« La qualité n'est jamais un accident ; c'est toujours le résultat d'un effort intelligent. »*
