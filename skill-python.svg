@@ -19,14 +19,11 @@
     
     <text x="0" y="-10" font-family="Arial" font-size="12" fill="#d7f2ff" font-weight="700" text-anchor="middle">75%</text>
     
-    <g transform="translate(-10, 0)">
-        <path d="M 0 0 C -10 0, -10 -5, 0 -5 L 5 -5 C 10 -5, 10 -10, 5 -10 L -5 -10 C -10 -10, -10 -15, -5 -15" 
-              stroke="#4B8BBE" stroke-width="2" fill="none" stroke-linecap="round"/>
-        <path d="M 10 5 C 20 5, 20 10, 10 10 L 5 10 C 0 10, 0 15, 5 15 L 15 15 C 20 15, 20 20, 15 20" 
-              stroke="#FFD43B" stroke-width="2" fill="none" stroke-linecap="round"/>
-    </g>
     
-    <text x="0" y="25" font-family="Arial" font-size="8" fill="#FFD43B" font-weight="bold" text-anchor="middle">PYTHON</text>
+    <rect x="-10" y="0" width="20" height="20" fill="#306998" />
+    <rect x="-10" y="0" width="20" height="20" stroke="#FFD43B" stroke-width="2" fill="none" />
+    
+    <text x="0" y="28" font-family="Arial" font-size="8" fill="#FFD43B" font-weight="bold" text-anchor="middle">PYTHON</text>
     
   </g>
 </svg>
