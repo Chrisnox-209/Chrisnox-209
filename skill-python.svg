@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#00c2ff"/>
+      <stop offset="1" stop-color="#3a86ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="12" fill="#0f1720"/>
+  <g transform="translate(60,60)">
+    <!-- background ring -->
+    <circle r="30" fill="none" stroke="#202428" stroke-width="10"/>
+    <!-- progress ring -->
+    <circle r="30" fill="none" stroke="url(#g1)" stroke-width="10" stroke-linecap="round"
+            stroke-dasharray="188.49555921538757" stroke-dashoffset="56.54866776461628"
+            transform="rotate(-90)" style="transition: stroke-dashoffset 1s ease"/>
+    <!-- center badge -->
+    <circle r="20" fill="#0b1220" />
+    <text x="0" y="4" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#cfefff" font-weight="700" text-anchor="middle">Py</text>
+    <text x="0" y="20" font-family="Arial" font-size="6" fill="#8aa9c9" text-anchor="middle">70%</text>
+  </g>
+</svg>
