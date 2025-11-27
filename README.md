@@ -1,7 +1,7 @@
 # 🔥 Chrisnox
 
 <p align="center">
-  <img src="https://github.com/Chrisnox-209/Chrisnox-209/blob/main/header.jpg" alt="header Chrisnox" width="350"/>
+  <img src="https://github.com/Chrisnox-209/Chrisnox-209/blob/main/header.jpg" alt="header Chrisnox"/>
 </p>
 
 ---
