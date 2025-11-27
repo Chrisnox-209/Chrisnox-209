@@ -1,9 +1,8 @@
 # 🔥 Chrisnox
 
 <p align="center">
-  <img src="https://github.com/Chrisnox-209/Chrisnox-209/blob/main/header.jpg" alt="header Chrisnox"/>
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/header.jpg" alt="header Chrisnox" width="100%"/>
 </p>
-
 ---
 
 ### 🛠️ La Boîte à Outils (Tech Stack)
