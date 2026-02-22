@@ -25,7 +25,11 @@
 
 ## 🧰 Tech Stack
 
-***<p style="text-align:center;">Systèmes & Infra</p>***
+<div align="center">
+
+__Systèmes & Infra__
+
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" />
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Debian-Dark.svg" width="48" height="48" alt="Debian" />
@@ -36,7 +40,11 @@
 </p>
 
 
-***<p style="text-align:center;">Langages</p>***
+<div align="center">
+
+___Languages___
+
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/C.svg" width="48" height="48" alt="Language C" />
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" />
@@ -45,14 +53,22 @@
       <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/CSS.svg" width="48" height="48" alt="CSS" />
 </p>
 
-***<p style="text-align:center;">Création & Design</p>***
+<div align="center">
+
+___Création & Design___
+
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Photoshop.svg" width="48" height="48" alt="Photoshop" />
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Fusion-360svg.svg" width="48" height="48" alt="Fusion360" />
 </p>
 
-***<p style="text-align:center;">Outils</p>***
+<div align="center">
+
+___Outils___
+
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Git.svg" width="48" height="48" alt="Git" />
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Github-Dark.svg" width="48" height="48" alt="github" />
