@@ -138,21 +138,6 @@ ___Outils___
 
 ---
 
-## 🚀 Ce que je fais en ce moment
-
-- 📚 Formation intensive à **42 Lyon**
-- 🧠 Renforcement des bases en :
-  - programmation en C & Python
-  - systèmes Linux
-  - réseau & administration
-- 🐳 Expérimentations avec **Docker** et services auto-hébergés
-- 🛠️ Projets personnels mêlant :
-  - impression 3D
-  - modélisation (Fusion 360)
-  - drones & hardware
-
-
----
 
 ## 📊 Stats GitHub
 
