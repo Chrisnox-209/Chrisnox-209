@@ -25,34 +25,39 @@
 
 ## 🧰 Tech Stack
 
-### Systèmes & Infra
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Langages
-
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+***<p style="text-align:center;">Systèmes & Infra</p>***
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Debian-Dark.svg" width="48" height="48" alt="Debian" />
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/RaspberryPi-Dark.svg" width="48" height="48" alt="Raspberry" />
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows" />
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Nginx.svg" width="48" height="48" alt="Nginx" />
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Docker.svg" width="48" height="48" alt="Docker" />
+</p>
 
 
-### Création & Design
+***<p style="text-align:center;">Langages</p>***
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/C.svg" width="48" height="48" alt="Language C" />
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" />
+    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Bash-Dark.svg" width="48" height="48" alt="bash" />
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/HTML.svg" width="48" height="48" alt="HTML" />
+      <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/CSS.svg" width="48" height="48" alt="CSS" />
+</p>
 
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
+***<p style="text-align:center;">Création & Design</p>***
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Photoshop.svg" width="48" height="48" alt="Photoshop" />
+    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Fusion-360svg.svg" width="48" height="48" alt="Fusion360" />
+</p>
 
-### Outils
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+***<p style="text-align:center;">Outils</p>***
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Git.svg" width="48" height="48" alt="Git" />
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Github-Dark.svg" width="48" height="48" alt="github" />
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/VSCode-Dark.svg" width="48" height="48" alt="vs-code" />
+</p>
 
 ---
 
