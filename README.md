@@ -31,22 +31,22 @@ __Systèmes & Infra__
 
 </div>
 <p align="center">
-<a href="https://www.kernel.org/" target="_blank">
+<a href="https://www.kernel.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" />
 </a>
-<a href="https://www.debian.org/" target="_blank">
+<a href="https://www.debian.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Debian-Dark.svg" width="48" height="48" alt="Debian" />
 </a>
- <a href="https://www.raspberrypi.com/" target="_blank">
+ <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/RaspberryPi-Dark.svg" width="48" height="48" alt="Raspberry" />
 </a>
-<a href="https://www.microsoft.com/windows" target="_blank">
+<a href="https://www.microsoft.com/windows" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows" />
 </a>
-<a href="https://nginx.org/" target="_blank">
+<a href="https://nginx.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Nginx.svg" width="48" height="48" alt="Nginx" />
  </a>
- <a href="https://www.docker.com/" target="_blank">
+ <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Docker.svg" width="48" height="48" alt="Docker" />
  </a>
 </p>
@@ -58,19 +58,19 @@ ___Languages___
 
 </div>
 <p align="center">
-  <a href="https://en.cppreference.com/w/c" target="_blank">
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/C.svg" width="48" height="48" alt="Language C" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Bash-Dark.svg" width="48" height="48" alt="Bash" />
   </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/HTML.svg" width="48" height="48" alt="HTML" />
   </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/CSS.svg" width="48" height="48" alt="CSS" />
   </a>
 </p>
@@ -80,13 +80,13 @@ ___Création & Design___
 
 </div>
 <p align="center">
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Photoshop.svg" width="48" height="48" alt="Photoshop" />
   </a>
-  <a href="https://www.autodesk.com/products/fusion-360" target="_blank">
+  <a href="https://www.autodesk.com/products/fusion-360" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Fusion-360svg.svg" width="48" height="48" alt="Fusion 360" />
   </a>
 </p>
@@ -97,13 +97,13 @@ ___Outils___
 
 </div>
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Git.svg" width="48" height="48" alt="Git" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code" />
   </a>
 </p>
