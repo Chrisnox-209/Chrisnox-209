@@ -28,24 +28,16 @@
 ## 🎓 Cursus 42
 <div align="center">
 
-| Projet              | Description                     | Note    | État |
-|--------------------|---------------------------------|---------|------|
-| **Libft**          | Bibliothèque C personnalisée    | 125/100 | ✅   |
-| **ft_printf**      | Réécriture de printf            | 100/100 | ✅   |
-| **Get_Next_Line**  | Lecture fichier ligne par ligne | 125/100 | ✅   |
-| **Born2beroot**    | Admin Linux / VM                | 110/100 | ✅   |
-| **push_swap**      | Tri d'entiers optimisé          | 125/100 | ✅   |
-| **python 00**      | Bases Python                    | À venir | 🔜   |
-| **python 01**      | Structures et algorithmes       | À venir | 🔜   |
-| **python 02**      | Fichiers et I/O                 | À venir | 🔜   |
-| **python 03**      | POO en Python                   | À venir | 🔜   |
-| **python 04**      | Exceptions et tests             | À venir | 🔜   |
-| **python 05**      | Modules et bibliothèques        | À venir | 🔜   |
-| **python 06**      | Web scraping & automation       | À venir | 🔜   |
-| **python 07**      | Réseaux et API                  | À venir | 🔜   |
-| **python 08**      | Bases de données                | À venir | 🔜   |
-| **python 09**      | Avancé & design patterns        | À venir | 🔜   |
-| **python 10**      | Projet final Python             | À venir | 🔜   |
+| Projet              | Description                                           | Note    | État |
+|--------------------|--------------------------------------------------------|---------|------|
+| **Libft**          | Bibliothèque C personnalisée                           | 125/100 | ✅   |
+| **ft_printf**      | Réécriture de printf                                   | 100/100 | ✅   |
+| **Get_Next_Line**  | Lecture fichier ligne par ligne                        | 125/100 | ✅   |
+| **Born2beroot**    | Admin Linux / VM                                       | 110/100 | ✅   |
+| **push_swap**      | Tri d'entiers optimisé                                 | 125/100 | ✅   |
+| **python 00**      | Bases Python : syntaxe, variables, fonctions           | À venir | 🔜   |
+| **python 01**      | Introduction à la POO via un jardin virtuel            | À venir | 🔜   |
+| **python 02**      | Exceptions Python : try, except, raise, finally        | À venir | 🔜   |
 
 </div>
 
