@@ -39,7 +39,7 @@
 | **python 01**      | Introduction à la POO via un jardin virtuel            | 100/100 | ✅   |
 | **python 02**      | Exceptions Python : try, except, raise, finally        | 100/100 | ✅   |
 | **python 03**      | Collections Python : listes, dicts, sets, tuples.      | 100/100 | ✅   |
-| **python 04**      | Gestion fichiers: open(), read(), write(), print()     | À venir | 🔜   |
+| **python 04**      | Gestion fichiers: open(), read(), write(), print()     | 100/100 | ✅   |
 | **python 05**      |                                                        | À venir | 🔜   |
 | **python 06**      |                                                        | À venir | 🔜   |
 
