@@ -28,20 +28,20 @@
 ## 🎓 Cursus 42
 <div align="center">
 
-| Projet              | Description                                           | Note    | État |
-|--------------------|--------------------------------------------------------|---------|------|
-| **Libft**          | Bibliothèque C personnalisée                           | 125/100 | ✅   |
-| **ft_printf**      | Réécriture de printf                                   | 100/100 | ✅   |
-| **Get_Next_Line**  | Lecture fichier ligne par ligne                        | 125/100 | ✅   |
-| **Born2beroot**    | Admin Linux / VM                                       | 110/100 | ✅   |
-| **push_swap**      | Tri d'entiers optimisé                                 | 125/100 | ✅   |
-| **python 00**      | Bases Python : syntaxe, variables, fonctions           | 100/100 | ✅   |
-| **python 01**      | Introduction à la POO via un jardin virtuel            | 100/100 | ✅   |
-| **python 02**      | Exceptions Python : try, except, raise, finally        | 100/100 | ✅   |
-| **python 03**      | Collections Python : listes, dicts, sets, tuples.      | 100/100 | ✅   |
-| **python 04**      | Gestion fichiers: open(), read(), write(), print()     | 100/100 | ✅   |
-| **python 05**      |                                                        | À venir | 🔜   |
-| **python 06**      |                                                        | À venir | 🔜   |
+| Projet              | Description                                            | Note    | État |
+|--------------------|---------------------------------------------------------|---------|------|
+| **Libft**          | Bibliothèque C personnalisée                            | 125/100 | ✅   |
+| **ft_printf**      | Réécriture de printf                                    | 100/100 | ✅   |
+| **Get_Next_Line**  | Lecture fichier ligne par ligne                         | 125/100 | ✅   |
+| **Born2beroot**    | Admin Linux / VM                                        | 110/100 | ✅   |
+| **push_swap**      | Tri d'entiers optimisé                                  | 125/100 | ✅   |
+| **python 00**      | Bases Python : syntaxe, variables, fonctions            | 100/100 | ✅   |
+| **python 01**      | Introduction à la POO via un jardin virtuel             | 100/100 | ✅   |
+| **python 02**      | Exceptions Python : try, except, raise, finally         | 100/100 | ✅   |
+| **python 03**      | Collections Python : listes, dicts, sets, tuples.       | 100/100 | ✅   |
+| **python 04**      | Gestion fichiers: open(), read(), write(), print()      | 100/100 | ✅   |
+| **python 05**      | Classes abstraites, méthodes abstraites & polymorphisme | À venir | 🔜   |
+| **python 06**      |                                                         | À venir | 🔜   |
 
 </div>
 
