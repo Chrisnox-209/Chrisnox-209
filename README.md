@@ -139,6 +139,7 @@ ___Outils___
 
 <div align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=Chrisnox-209" />
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&theme=dark)
 </div>
 
 ---
