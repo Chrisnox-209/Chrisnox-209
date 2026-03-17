@@ -138,13 +138,10 @@ ___Outils___
 ## 📊 Stats GitHub
 
 <div align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=Chrisnox-209" />
-
-
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Chrisnox-209&hide=prs,prs_merged&border_width=0&border_radius=10.1&title_color=0093e7&icon_color=f20000)
-
+<!-- <img src="https://github-stats-alpha.vercel.app/api?username=Chrisnox-209" /> -->
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Chrisnox-209&hide=prs,prs_merged&border_width=0&border_radius=10.1&title_color=0093e7&icon_color=f20000&border_color=0093e7)
+
 </div>
 
 ---
