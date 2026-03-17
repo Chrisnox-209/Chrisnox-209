@@ -43,6 +43,93 @@
 | **python 05**      | Classes abstraites, méthodes abstraites & polymorphisme | À venir | 🔜   |
 | **python 06**      |                                                         | À venir | 🔜   |
 
+
+<table style="width: 100%; max-width: 900px; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; text-align: left; margin: 20px auto; border: 1px solid #eaecef;">
+    <thead>
+        <tr>
+            <th style="background-color: #4f46e5; color: #ffffff; padding: 14px 20px; font-weight: 600; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Projet</th>
+            <th style="background-color: #4f46e5; color: #ffffff; padding: 14px 20px; font-weight: 600; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Description</th>
+            <th style="background-color: #4f46e5; color: #ffffff; padding: 14px 20px; font-weight: 600; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Note</th>
+            <th style="background-color: #4f46e5; color: #ffffff; padding: 14px 20px; font-weight: 600; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em; text-align: center;">État</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">Libft</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;">Bibliothèque C personnalisée</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #1a7f37; font-weight: bold;">125/100</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">✅</td>
+        </tr>
+        <tr style="background-color: #f6f8fa;">
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">ft_printf</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;">Réécriture de printf</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #1a7f37; font-weight: bold;">100/100</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">✅</td>
+        </tr>
+        <tr>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">Get_Next_Line</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;">Lecture fichier ligne par ligne</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #1a7f37; font-weight: bold;">125/100</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">✅</td>
+        </tr>
+        <tr style="background-color: #f6f8fa;">
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">Born2beroot</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;">Admin Linux / VM</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #1a7f37; font-weight: bold;">110/100</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">✅</td>
+        </tr>
+        <tr>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">push_swap</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;">Tri d'entiers optimisé</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #1a7f37; font-weight: bold;">125/100</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">✅</td>
+        </tr>
+        <tr style="background-color: #f6f8fa;">
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">python 00</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;">Bases Python : syntaxe, variables, fonctions</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #1a7f37; font-weight: bold;">100/100</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">✅</td>
+        </tr>
+        <tr>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">python 01</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;">Introduction à la POO via un jardin virtuel</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #1a7f37; font-weight: bold;">100/100</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">✅</td>
+        </tr>
+        <tr style="background-color: #f6f8fa;">
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">python 02</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;">Exceptions Python : try, except, raise, finally</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #1a7f37; font-weight: bold;">100/100</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">✅</td>
+        </tr>
+        <tr>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">python 03</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;">Collections Python : listes, dicts, sets, tuples.</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #1a7f37; font-weight: bold;">100/100</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">✅</td>
+        </tr>
+        <tr style="background-color: #f6f8fa;">
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">python 04</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;">Gestion fichiers: open(), read(), write(), print()</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #1a7f37; font-weight: bold;">100/100</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">✅</td>
+        </tr>
+        <tr>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">python 05</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;">Classes abstraites, méthodes abstraites & polymorphisme</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #6e7781; font-style: italic;">À venir</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">🔜</td>
+        </tr>
+        <tr style="background-color: #f6f8fa;">
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"><strong style="color: #24292f;">python 06</strong></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef;"></td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; color: #6e7781; font-style: italic;">À venir</td>
+            <td style="padding: 14px 20px; border-bottom: 1px solid #eaecef; text-align: center; font-size: 1.1rem;">🔜</td>
+        </tr>
+    </tbody>
+</table>
+
+
 </div>
 
 ---
