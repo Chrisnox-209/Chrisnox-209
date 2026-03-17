@@ -144,7 +144,7 @@ ___Outils___
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Chrisnox-209&hide=repos,forks,prs_merged)
 
-https://gh-readme-profile.vercel.app/api?username=Chrisnox-209&border_width=1.7&border_radius=16.2&title_color=0093e7&icon_color=f20000
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Chrisnox-209&border_width=1.7&border_radius=16.2&title_color=0093e7&icon_color=f20000)
 
 </div>
 
