@@ -42,7 +42,7 @@
 | **python 03** | Collections Python : listes, dicts, sets, tuples. | **100/100** | ✅ |
 | **python 04** | Gestion fichiers: open(), read(), write(), print() | **100/100** | ✅ |
 | **python 05** | Classes abstraites, méthodes abstraites & polymorphisme | **100/100** | ✅ |
-| **python 06** | Système d'importation packages, init, imports absolus/relatifs | *À venir* | 🔜 |
+| **python 06** | Système d'importation: packages, init, imports absolus/relatifs | *À venir* | 🔜 |
 | **python 07** |  Maîtrise des imports : packages, __init__.py et dépendances circulaires| *À venir* | 🔜 |
 
 </div>
