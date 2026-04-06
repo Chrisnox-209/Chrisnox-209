@@ -43,8 +43,8 @@
 | **python 04** | Gestion fichiers: open(), read(), write(), print() | **100/100** | ✅ |
 | **python 05** | Classes abstraites, méthodes abstraites & polymorphisme | **100/100** | ✅ |
 | **python 06** | Système d'importation: packages, init, imports absolus/relatifs | **100/100** | ✅ |
-| **python 07** |  Maîtrise des imports : packages, __init__.py et dépendances circulaires| *À venir* | 🔜 |
-
+| **python 07** | Maîtrise des imports : packages, __init__.py et dépendances circulaires| **100/100** | ✅ |
+| **python 08** | Environnement virtuel & analyse de données (Numpy/Matplotlib/Pandas) | *À venir* | 🔜 |
 </div>
 
 ---
