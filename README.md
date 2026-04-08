@@ -45,7 +45,7 @@
 | **python 06** | Système d'importation: packages, init, imports absolus/relatifs | **100/100** | ✅ |
 | **python 07** | Maîtrise des imports : packages, __init__.py et dépendances circulaires| **100/100** | ✅ |
 | **python 08** | Environnement virtuel & analyse de données (Numpy/Matplotlib/Pandas) | **100/100** | ✅ |
-| **python 09** | Découverte des modèles et de la validation Pydantic | *À venir* | 🔜 |
+| **python 09** | Découverte des modèles et de la validation Pydantic | **100/100** | ✅ |
 | **python 10** | Exploration et maîtrise de la programmation fonctionnelle  | *À venir* | 🔜 |
 </div>
 
