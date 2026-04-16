@@ -81,62 +81,53 @@ __Systèmes & Infra__
 
 <div align="center">
 
-___Languages___
+<h3>Languages</h3>
+
+<a href="https://en.cppreference.com/w/c">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/C.svg" width="48" height="48" alt="Language C" />
+</a>
+<a href="https://www.python.org/">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" />
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Bash-Dark.svg" width="48" height="48" alt="Bash" />
+</a>
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/HTML.svg" width="48" height="48" alt="HTML" />
+</a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/CSS.svg" width="48" height="48" alt="CSS" />
+</a>
+
+<br><br>
+
+<h3>Création & Design</h3>
+
+<a href="https://www.adobe.com/products/illustrator.html">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
+</a>
+<a href="https://www.adobe.com/products/photoshop.html">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Photoshop.svg" width="48" height="48" alt="Photoshop" />
+</a>
+<a href="https://www.autodesk.com/products/fusion-360">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Fusion-360svg.svg" width="48" height="48" alt="Fusion 360" />
+</a>
+
+<br><br>
+
+<h3>Outils</h3>
+
+<a href="https://git-scm.com/">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Git.svg" width="48" height="48" alt="Git" />
+</a>
+<a href="https://github.com/">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" />
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code" />
+</a>
 
 </div>
-
-<p align="center">
-
-  <a href="https://en.cppreference.com/w/c">
-    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/C.svg" width="48" height="48" alt="Language C" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Bash-Dark.svg" width="48" height="48" alt="Bash" />
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/HTML.svg" width="48" height="48" alt="HTML" />
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS">
-    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/CSS.svg" width="48" height="48" alt="CSS" />
-  </a>
-</p>
-
-<div align="center">
-
-___Création & Design___
-
-</div>
-<p align="center">
-  <a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Photoshop.svg" width="48" height="48" alt="Photoshop" />
-  </a>
-  <a href="https://www.autodesk.com/products/fusion-360">
-    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Fusion-360svg.svg" width="48" height="48" alt="Fusion 360" />
-  </a>
-</p>
-
-<div align="center">
-
-___Outils___
-
-</div>
-<p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Git.svg" width="48" height="48" alt="Git" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code" />
-  </a>
-</p>
 
 
 ---
