@@ -55,26 +55,45 @@
 <div align="center">
 
 <h3>Systèmes & Infra</h3>
-
-<a href="https://www.kernel.org/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" /></a>&nbsp;<a href="https://www.debian.org/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Debian-Dark.svg" width="48" height="48" alt="Debian" /></a>&nbsp;<a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/RaspberryPi-Dark.svg" width="48" height="48" alt="Raspberry" /></a>&nbsp;<a href="https://www.microsoft.com/windows"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows" /></a>&nbsp;<a href="https://nginx.org/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Nginx.svg" width="48" height="48" alt="Nginx" /></a>&nbsp;<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Docker.svg" width="48" height="48" alt="Docker" /></a>
-
-<br><br>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.kernel.org/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" /></a></td>
+    <td align="center"><a href="https://www.debian.org/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Debian-Dark.svg" width="48" height="48" alt="Debian" /></a></td>
+    <td align="center"><a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/RaspberryPi-Dark.svg" width="48" height="48" alt="Raspberry" /></a></td>
+    <td align="center"><a href="https://www.microsoft.com/windows"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows" /></a></td>
+    <td align="center"><a href="https://nginx.org/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Nginx.svg" width="48" height="48" alt="Nginx" /></a></td>
+    <td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Docker.svg" width="48" height="48" alt="Docker" /></a></td>
+  </tr>
+</table>
 
 <h3>Languages</h3>
-
-<a href="https://en.cppreference.com/w/c"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/C.svg" width="48" height="48" alt="Language C" /></a>&nbsp;<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" /></a>&nbsp;<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Bash-Dark.svg" width="48" height="48" alt="Bash" /></a>&nbsp;<a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/HTML.svg" width="48" height="48" alt="HTML" /></a>&nbsp;<a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/CSS.svg" width="48" height="48" alt="CSS" /></a>
-
-<br><br>
+<table>
+  <tr>
+    <td align="center"><a href="https://en.cppreference.com/w/c"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/C.svg" width="48" height="48" alt="Language C" /></a></td>
+    <td align="center"><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" /></a></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Bash-Dark.svg" width="48" height="48" alt="Bash" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/HTML.svg" width="48" height="48" alt="HTML" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/CSS.svg" width="48" height="48" alt="CSS" /></a></td>
+  </tr>
+</table>
 
 <h3>Création & Design</h3>
-
-<a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" /></a>&nbsp;<a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Photoshop.svg" width="48" height="48" alt="Photoshop" /></a>&nbsp;<a href="https://www.autodesk.com/products/fusion-360"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Fusion-360svg.svg" width="48" height="48" alt="Fusion 360" /></a>
-
-<br><br>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" /></a></td>
+    <td align="center"><a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Photoshop.svg" width="48" height="48" alt="Photoshop" /></a></td>
+    <td align="center"><a href="https://www.autodesk.com/products/fusion-360"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Fusion-360svg.svg" width="48" height="48" alt="Fusion 360" /></a></td>
+  </tr>
+</table>
 
 <h3>Outils</h3>
-
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Git.svg" width="48" height="48" alt="Git" /></a>&nbsp;<a href="https://github.com/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" /></a>&nbsp;<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code" /></a>
+<table>
+  <tr>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Git.svg" width="48" height="48" alt="Git" /></a></td>
+    <td align="center"><a href="https://github.com/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" /></a></td>
+    <td align="center"><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code" /></a></td>
+  </tr>
+</table>
 
 </div>
 
