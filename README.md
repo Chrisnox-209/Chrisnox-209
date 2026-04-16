@@ -84,7 +84,9 @@ __Systèmes & Infra__
 ___Languages___
 
 </div>
+
 <p align="center">
+
   <a href="https://en.cppreference.com/w/c">
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/C.svg" width="48" height="48" alt="Language C" />
   </a>
@@ -101,6 +103,7 @@ ___Languages___
     <img src="https://raw.githubusercontent.com/Chrisnox-209/Chrisnox-209/main/icons/CSS.svg" width="48" height="48" alt="CSS" />
   </a>
 </p>
+
 <div align="center">
 
 ___Création & Design___
