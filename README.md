@@ -44,8 +44,8 @@
 | **python 07** | Maîtrise des imports : packages, \_\_init\_\_.py et dépendances circulaires| **100/100** | ✅ |
 | **python 08** | Environnement virtuel & analyse de données (Numpy/Matplotlib/Pandas) | **100/100** | ✅ |
 | **python 09** | Découverte des modèles et de la validation Pydantic | **100/100** | ✅ |
-| **python 10** | Exploration et maîtrise de la programmation fonctionnelle | *À venir* | 🔜 |
-
+| **python 10** | Exploration et maîtrise de la programmation fonctionnelle | **100/100** | ✅ |
+| **A-Maze-Ing** | un générateur de labyrinthe en Python.  | **125/100** | ✅ |
 </div>
 
 ---
