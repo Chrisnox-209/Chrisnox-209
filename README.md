@@ -46,7 +46,9 @@
 | **python 09** | Découverte des modèles et de la validation Pydantic | **100/100** | ✅ |
 | **python 10** | Exploration et maîtrise de la programmation fonctionnelle | **100/100** | ✅ |
 | **A-Maze-Ing** | un générateur de labyrinthe en Python.  | **125/100** | ✅ |
-| **Fly-in** | Simulation de routage de drones en Python | *À venir* | 🔜 |
+| **Fly-in** | Simulation de routage de drones en Python | **125/100** | ✅ |
+| **Call Me Maybe** | constrained decoding - forcer un LLM à générer du JSON structuré et typé. | *À venir* | 🔜 |
+
 
 </div>
 
