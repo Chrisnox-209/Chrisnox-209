@@ -47,7 +47,10 @@
 | **python 10** | Exploration et maîtrise de la programmation fonctionnelle | **100/100** | ✅ |
 | **A-Maze-Ing** | un générateur de labyrinthe en Python.  | **125/100** | ✅ |
 | **Fly-in** | Simulation de routage de drones en Python | **125/100** | ✅ |
-| **Call Me Maybe** | constrained decoding - forcer un LLM à générer du JSON structuré et typé. | *À venir* | 🔜 |
+| **Call Me Maybe** | constrained decoding - forcer un LLM à générer du JSON structuré et typé. | **123/100** | ✅ |
+| **Codexion** | simulation multithread avec POSIX Threads, mutex et variables de condition. | **100/100** | ✅ |
+| **RAG** | Pipeline RAG lexical haute performance indexant le dépôt vLLM, propulsé par Qwen3-0.6B. | *À venir* | 🔜 |
+| **Pacman** | Implémentation orientée objet d'un moteur de jeu Pac-Man en Python avec interface graphique. | *À venir* | 🔜 |
 
 
 </div>
